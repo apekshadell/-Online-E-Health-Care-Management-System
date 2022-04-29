@@ -1,0 +1,20 @@
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\apeksha_agarwal\Downloads\E-Healthcare-ASP-main\E-Healthcare-ASP-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\apeksha_agarwal\OneDrive - Dell Technologies\Desktop\FSD-API\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
